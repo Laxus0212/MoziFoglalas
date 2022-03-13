@@ -1,0 +1,14 @@
+html{
+    width: 70%;
+    margin: auto;
+}
+nav{
+    font-size: 14pt;
+}
+.nav-link{
+    color: white;
+}
+.navbar{
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+}
